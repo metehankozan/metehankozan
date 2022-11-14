@@ -1,8 +1,7 @@
 ### Hi there,:wave: it's Metehan here!
 I'm an Electrical Engineer and learning new stuff about software lately..
-- 👀 I’m interested in software development and AI
-- 🌱 I’m currently learning C#, SQL and Python
-- 📫 You can reach me on [twitter](https://twitter.com/metehnkozan)
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Java
 
 <!---
 metehankozan/metehankozan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
