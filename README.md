@@ -1,4 +1,4 @@
-### Hi there,:wave: it's Metehan here!
+### Hi there, :wave: it's Metehan here!
 I'm an Electrical Engineer and learning new stuff about software lately..
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Java
